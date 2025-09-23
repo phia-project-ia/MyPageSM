@@ -2,7 +2,7 @@ tu-proyecto/
 ├── index.html
 ├── style.css
 └── assets/
-    ├── Images/
+    ├── Images_DA/
     │   ├── about/          # Imágenes relacionadas con la sección "Sobre mí"
     │   │   └── 1.jpg
     │   ├── Icons/          # Íconos de redes sociales o similares
