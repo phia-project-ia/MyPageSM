@@ -1,1 +1,19 @@
-
+tu-proyecto/
+├── index.html
+├── style.css
+└── assets/
+    ├── Images/
+    │   ├── about/          # Imágenes relacionadas con la sección "Sobre mí"
+    │   │   └── 1.jpg
+    │   ├── Icons/          # Íconos de redes sociales o similares
+    │   │   ├── linkedin.jpg
+    │   │   ├── instagram.jpg
+    │   │   └── datacamp.jpg
+    │   └── portfolio/      # Imágenes para el portafolio o proyectos
+    │       ├── project1.jpg
+    │       └── project2.jpg
+    ├── Videos/             # Si tienes videos
+    │   └── intro.mp4
+    └── Fonts/              # Fuentes personalizadas
+        ├── font1.ttf
+        └── font2.woff
