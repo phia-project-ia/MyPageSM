@@ -1,7 +1,7 @@
 MyPageSM/
 ├── index.html
 ├── style.css
-└── assets/
+└── Assets/
     └── Images_DA/
         ├── About/          # Imágenes relacionadas con la sección "Sobre mí"
         │   └── 1.jpg
