@@ -2,11 +2,10 @@ MyPageSM/
 ├── index.html
 ├── style.css
 └── Assets/
-    ├── Images_DA/
-    │   ├── about/          # Imágenes relacionadas con la sección "Sobre mí"
-    │   │   └── 1.jpg
-    │   ├── Icons/          # Íconos de redes sociales o similares
-    │   │   ├── linkedin.jpg
-    │   │   ├── instagram.jpg
-    │   │   └── datacamp.jpg
-
+    └── Images_DA/
+        ├── About/          # Imágenes relacionadas con la sección "Sobre mí"
+        │   └── 1.jpg
+        └── Icons/          # Íconos de redes sociales o similares
+            ├── linkedin.jpg
+            ├── instagram.jpg
+            └── datacamp.jpg
