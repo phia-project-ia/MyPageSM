@@ -1,0 +1,29 @@
+/* Estilos personalizados para el portafolio de Sofia Massa */
+
+/* Estilo general para el cuerpo */
+body {
+    background-color: white; /* Fondo blanco */
+    color: #64748b; /* Texto gris */
+}
+
+/* Estilo para los encabezados */
+h1, h2, h3, h4 {
+    color: #2563eb; /* Texto azul */
+}
+
+/* Efecto hover en los botones */
+.btn-primary {
+    background-color: #2563eb; /* Azul */
+    border-color: #2563eb; /* Azul */
+}
+
+.btn-primary:hover {
+    background-color: #1d4ed8; /* Azul más oscuro al pasar el ratón */
+    border-color: #1d4ed8; /* Azul más oscuro al pasar el ratón */
+}
+
+/* Estilo para la imagen de perfil */
+.img-fluid {
+    max-width: 100%; /* Asegura que la imagen sea responsiva */
+    height: auto; /* Mantiene la proporción de la imagen */
+}
