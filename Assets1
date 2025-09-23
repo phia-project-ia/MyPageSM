@@ -1,0 +1,11 @@
+MyPageSM/
+├── index.html
+├── style.css
+└── assets/
+    └── Images_DA/
+        ├── About/          # Imágenes relacionadas con la sección "Sobre mí"
+        │   └── 1.jpg
+        └── Icons/          # Íconos de redes sociales o similares
+            ├── linkedin.jpg
+            ├── instagram.jpg
+            └── datacamp.jpg
